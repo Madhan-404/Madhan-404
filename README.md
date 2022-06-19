@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/madhan_raj17" target="blank"><img src="https://img.shields.io/twitter/follow/madhan_raj17?logo=twitter&style=for-the-badge" alt="madhan_raj17" /></a> </p>
 
 
-- 📝 I  write articles on [https://medium.com/@madhansainik](https://medium.com/@madhansainik)
+
 
 - 📫 How to reach me **madhansainik@gmail.com**
 
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/madhan_raj17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhan_raj17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/madhanrajkv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhanrajkv/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_probably__nothing_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_probably__nothing_/" height="30" width="40" /></a>
+
 <a href="https://medium.com/@madhansainik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@madhansainik" height="30" width="40" /></a>
 </p>
 
