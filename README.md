@@ -28,3 +28,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhan-404&show_icons=true&locale=en" alt="madhan-404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhan-404&" alt="madhan-404" /></p>
+
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/0xmadhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+
